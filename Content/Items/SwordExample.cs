@@ -13,7 +13,7 @@ namespace MariasUtilityMod.Content.Items
 		public override void SetDefaults()
 		{
 			Item.damage = 500;
-			Item.DamageType = DamageClass.Range;
+			Item.DamageType = DamageClass.Melee;
 			Item.width = 40;
 			Item.height = 40;
 			Item.useTime = 20;
@@ -30,6 +30,7 @@ namespace MariasUtilityMod.Content.Items
 		{
 			Recipe recipe = CreateRecipe();
 			recipe.AddIngredient(ItemID.DirtBlock, 10);
+			recipe.AddIngredient(ItemID.StoneBlock, 5);
 			recipe.AddTile(TileID.WorkBenches);
 			recipe.Register();
 		}
