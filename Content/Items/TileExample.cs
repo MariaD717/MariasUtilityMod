@@ -12,7 +12,7 @@ namespace MariasUtilityMod.Content.Items
         // The Display Name and Tooltip of this item can be edited in the 'Localization/en-US_Mods.MariasUtilityMod.hjson' file.
         public override void SetStaticDefaults()
         {
-            DisplayName.SetDefault("Tile Example");
+            // DisplayName.SetDefault("Tile Example");
         }
         public override void SetDefaults()
         {
@@ -26,7 +26,7 @@ namespace MariasUtilityMod.Content.Items
             Item.maxStack = 10;
             Item.consumable = true;
             Item.createTile = ModContent.TileType<PinkBlockTile>();
-            Items.useStyle = ItemUseStyleId.Swing;
+            Item.useStyle = ItemUseStyleID.Swing;
 
         }
     }

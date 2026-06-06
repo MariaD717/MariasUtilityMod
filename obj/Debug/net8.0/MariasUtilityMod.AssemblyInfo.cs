@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MariasUtilityMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27c91db31aa4cd67ea808a4dcbb6ef7aed5521a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+963901130a5542dd9e23c1306e9a4fd81f5b50fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("MariasUtilityMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MariasUtilityMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

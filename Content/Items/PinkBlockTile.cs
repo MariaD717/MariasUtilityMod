@@ -8,11 +8,16 @@ namespace MariasUtilityMod.Content.Items
 {
     public class PinkBlockTile : ModTile
     {
-        Main.tileSolid[Type] = true;
-        Main.tileMergeDirt[Type] = true;
-        Main.tileBlockLight[Type] = true;
+        public override void SetStaticDefaults()
+        {
+            Main.tileSolid[Type] = true;
+            Main.tileMergeDirt[Type] = true;
+            Main.tileBlockLight[Type] = true;
 
-        DustType = DustID.StoneBlock;
-        ItemDrop = ModContent.ItemType<TileExample>();
+            DustType = DustID.Stone;
+            
+        }
+
     }
+       
 }
