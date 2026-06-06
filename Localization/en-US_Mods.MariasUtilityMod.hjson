@@ -4,11 +4,6 @@
 Items: {
 	SwordExample: {
 		DisplayName: Sword Example
-		Tooltip:
-			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
-			'''
+		Tooltip: The sword glows bright on this mountain tonight...
 	}
 }
