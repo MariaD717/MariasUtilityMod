@@ -6,4 +6,9 @@ Items: {
 		DisplayName: Sword Example
 		Tooltip: The sword glows bright on this mountain tonight...
 	}
+
+	TileExample: {
+		DisplayName: Tile Example
+		Tooltip: ""
+	}
 }
