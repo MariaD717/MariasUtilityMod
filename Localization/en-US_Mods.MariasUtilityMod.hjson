@@ -11,4 +11,14 @@ Items: {
 		DisplayName: Tile Example
 		Tooltip: ""
 	}
+
+	SinglePinkBlock: {
+		DisplayName: Single Pink Block
+		Tooltip: ""
+	}
+
+	SnowSword: {
+		DisplayName: Snow Sword
+		Tooltip: ""
+	}
 }

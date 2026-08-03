@@ -7,7 +7,7 @@ namespace MariasUtilityMod.Content.Items
 	// This is a basic item template.
 	// Please see tModLoader's ExampleMod for every other example:
 	// https://github.com/tModLoader/tModLoader/tree/stable/ExampleMod
-	public class SwordExample : ModItem
+	public class SnowSword : ModItem
 	{
 		// The Display Name and Tooltip of this item can be edited in the 'Localization/en-US_Mods.MariasUtilityMod.hjson' file.
 		public override void SetDefaults()
