@@ -21,4 +21,14 @@ Items: {
 		DisplayName: Snow Sword
 		Tooltip: ""
 	}
+
+	ExampleSword: {
+		DisplayName: Example Sword
+		Tooltip: ""
+	}
+
+	PinkBlock: {
+		DisplayName: Pink Block
+		Tooltip: ""
+	}
 }

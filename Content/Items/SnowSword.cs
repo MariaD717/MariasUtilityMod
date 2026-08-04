@@ -12,7 +12,7 @@ namespace MariasUtilityMod.Content.Items
 		// The Display Name and Tooltip of this item can be edited in the 'Localization/en-US_Mods.MariasUtilityMod.hjson' file.
 		public override void SetDefaults()
 		{
-			Item.damage = 500;
+			Item.damage = 250;
 			Item.DamageType = DamageClass.Melee;
 			Item.width = 40;
 			Item.height = 40;
@@ -29,10 +29,13 @@ namespace MariasUtilityMod.Content.Items
 		public override void AddRecipes()
 		{
 			Recipe recipe = CreateRecipe();
-			recipe.AddIngredient(ItemID.DirtBlock, 10);
-			recipe.AddIngredient(ItemID.StoneBlock, 5);
-			recipe.AddTile(TileID.WorkBenches);
-			recipe.Register();
+            recipe.AddIngredient(ItemID.Meowmere, 1);
+            recipe.AddIngredient(ItemID.SnowBlock, 20);
+            recipe.AddIngredient(ItemID.IronBar, 5);
+            recipe.AddIngredient(ItemID.FallenStar, 1);
+            recipe.AddTile(TileID.MythrilAnvil);
+            recipe.Register();
 		}
-	}
+       
+    }
 }
