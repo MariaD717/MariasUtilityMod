@@ -5,7 +5,7 @@ using Terraria.ModLoader;
 
 namespace MariasUtilityMod.Content.Items
 {
-    public class Hairstyle : ModHair
+    public class Hairstyle_1 : ModHair
     {
         public override Gender RandomizedCharacterCreationGender => Gender.Female;
 
