@@ -24,3 +24,9 @@ A new hairstyle:
 
 
 Those are the three features I added into my mod. I probably would've added more if I had more time, but this is all I did with the time I had.
+
+## Installing The Mod
+
+Download the .tmod file from https://github.com/MariaD717/MariasUtilityMod/releases/tag/V1.0.0
+
+Place the downloaded file into the Terraria tModLoader Mods folder (On Windows usually: Documents\My Games\Terraria\tModLoader\Mods)
