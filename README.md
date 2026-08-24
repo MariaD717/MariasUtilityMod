@@ -27,6 +27,10 @@ Those are the three features I added into my mod. I probably would've added more
 
 ## Installing The Mod
 
-Download the .tmod file from https://github.com/MariaD717/MariasUtilityMod/releases/tag/V1.0.0
+- Install tModLoader
+- Download the .tmod file from https://github.com/MariaD717/MariasUtilityMod/releases/tag/V1.0.0
+- Place the downloaded file into the Terraria tModLoader Mods folder (On Windows usually: Documents\My Games\Terraria\tModLoader\Mods)
+- Launch tModLoader and navigate to Workshop -> Manage Mods -> Enable the Pink, Hair, Sword Mod
+- Force Reload
 
-Place the downloaded file into the Terraria tModLoader Mods folder (On Windows usually: Documents\My Games\Terraria\tModLoader\Mods)
+Now, you can play with the mod.
