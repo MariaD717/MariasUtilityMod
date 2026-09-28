@@ -27,6 +27,7 @@ Those are the three features I added into my mod. I probably would've added more
 
 ## Demo Video
 You can see the demo video at https://github.com/MariaD717/MariasUtilityMod/releases/tag/V1.0.0
+It is the screen recording.
 
 ## Installing The Mod
 
