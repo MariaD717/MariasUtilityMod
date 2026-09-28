@@ -25,6 +25,9 @@ A new hairstyle:
 
 Those are the three features I added into my mod. I probably would've added more if I had more time, but this is all I did with the time I had.
 
+## Demo Video
+You can see the demo video at https://github.com/MariaD717/MariasUtilityMod/releases/edit/V1.0.0
+
 ## Installing The Mod
 
 - Install tModLoader
